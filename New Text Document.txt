@@ -1,0 +1,58 @@
+
+<html>
+    <head>
+        <title>All In One Website</title>
+        <body>
+            <img src="C:\Users\Arushi\Downloads\1_4HF_xqCCxBmgXt5PprsGFg-removebg-preview.png" alt="error loading image">
+        <style>
+            body{
+                background-color:rgb(215 75 61);;
+                background-size: contain;
+            }
+            img{
+                width: 45%;
+                margin-left: 700px;
+                padding-top: 200px;
+                position: absolute;
+            }
+            .nav{
+                display: inline;
+                position: relative;left: 800px;
+                padding: 20px;
+                }
+            .name{
+                position:relative;
+                top: 60px;
+                left: 60px;
+                font-size: 35px;
+            }
+            .heading{
+                font-size: 40px;
+                position: relative;
+                top: 80px;
+                left: 80px;
+            }
+            .para{
+                font-size: 30px;
+                position: absolute;
+                top: 280px;
+                left: 90px;
+            }
+        </style>
+            <h2 class="name">
+                All_In_One
+            </h2>
+            <h2 class="nav">Home</h2>
+            <h2 class="nav">Youtube</h2>
+            <h2 class="nav">Songs</h2>
+            <h2 class="nav">Anime</h2>
+            <h2 class="nav">Contacts</h2>
+            <h2 class="heading">Welcome To All in One Website</h2>
+            <p class="para">asjfaskljfksajfkasdjfkasjfklsajfkasjfa<br>
+                slfjsdklfjsaknfsdfn<br>
+                sflkjsdkfjskdafskdlfasjfd<br>
+                sdfksakjfsaklfj
+            </p>
+        </body>
+    </head>
+</html>
